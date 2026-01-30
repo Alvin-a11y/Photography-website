@@ -1,4 +1,4 @@
-/* General styling for the whole page */
+/* General styling */
 body {
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
@@ -16,6 +16,7 @@ header {
 .intro {
     font-style: italic;
 }
+Improved page styling
 
 /* Common styling for all sections */
 section {
