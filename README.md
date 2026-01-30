@@ -18,3 +18,7 @@ This project was built using basic HTML and CSS as a learning exercise.
 
 ## License
 MIT License
+
+## Features
+- Photo gallery
+- Biography section
